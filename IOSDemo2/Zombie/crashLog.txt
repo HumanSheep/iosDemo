@@ -1,0 +1,412 @@
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Handler: Signal Handler
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Hardware Model: iPhone13,4
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Process: QQMusic [41257]
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Path: /private/var/containers/Bundle/Application/40DC0945-CFF7-451A-B519-3B3E63ED93CD/QQMusic.app
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Identifier: com.tencent.ios.qqmusic
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Version: 10.17.5(22412)-102_Debug
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Code Type: ARM-64 (Native)
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Parent Process:  [1]
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Date/Time: 2021-08-27 12:54:55.285 +0800
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] OS Version: iPhone OS 14.6 (18F72)
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Report Version: 104
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] SDK start time: 2021-08-27 12:54:54
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] last record time delta : 1285 ms
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] RDM SDK Version: 2.4.5.4
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] RDM Registed Uin : 1055978080
+[E][2021-08-27 +8.0 12:54:55.293][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] RDM DeviceId: 421218BEAC994C05A58041C6FA6EDFFF
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] RDM APP KEY: com.tencent.ios.qqmusic
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Last Exception Backtrace :
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  CoreFoundation                 0x00000001967de750 0x00000001966b5000 + 1218384
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 1  libobjc.A.dylib                0x00000001ab2a57a0 objc_exception_throw + 52
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  CoreFoundation                 0x00000001966e03f0 0x00000001966b5000 + 177136
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  Foundation                     0x0000000197ab4710 0x0000000197a37000 + 513808
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  QQMusic                        0x00000001043ef470 -[KSNewAudioPlayerManager setLogProtocol:] + 188
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  QQMusic                        0x000000010137a210 -[AudioPlayManager setupNewPlayConfigure] + 96
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 6  QQMusic                        0x0000000101017660 __37-[QQMusicAppDelegate flashDidAppear:]_block_invoke_6 + 64
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  QQMusic                        0x00000001036e51e0 +[QMLaunchManager(Speedometer) executeInMain:as:] + 496
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 8  QQMusic                        0x0000000101017200 -[QQMusicAppDelegate flashDidAppear:] + 328
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 9  QQMusic                        0x00000001010143e0 -[QQMusicAppDelegate applicationDidFinishLaunchingWithOptionsAfterSafeMode:] + 1160
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 10 QQMusic                        0x0000000101013950 -[QQMusicAppDelegate realApplication:didFinishLaunchingWithOptions:] + 680
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 11 QQMusic                        0x0000000102975890 __59-[QQMusicSceneDelegate scene:willConnectToSession:options:]_block_invoke.168 + 164
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  QQMusic                        0x00000001036e51e0 +[QMLaunchManager(Speedometer) executeInMain:as:] + 496
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 13 QQMusic                        0x00000001029752b0 -[QQMusicSceneDelegate scene:willConnectToSession:options:] + 448
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 14 UIKitCore                      0x0000000198650ef0 0x0000000198602000 + 323312
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 15 UIKitCore                      0x00000001991ce0a0 0x0000000198602000 + 12370080
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 16 UIKitCore                      0x00000001991ce430 0x0000000198602000 + 12370992
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 17 UIKitCore                      0x0000000198cc3fd0 0x0000000198602000 + 7086032
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 18 FrontBoardServices             0x00000001a5d705d0 0x00000001a5d66000 + 42448
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 19 FrontBoardServices             0x00000001a5d9bd40 0x00000001a5d66000 + 220480
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 20 FrontBoardServices             0x00000001a5d7f6a0 0x00000001a5d66000 + 104096
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 21 FrontBoardServices             0x00000001a5d9ba00 0x00000001a5d66000 + 219648
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 22 libdispatch.dylib              0x00000001963cb810 0x00000001963c7000 + 18448
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 23 libdispatch.dylib              0x00000001963cf300 0x00000001963c7000 + 33536
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 24 FrontBoardServices             0x00000001a5dc3fa0 0x00000001a5d66000 + 384928
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 25 FrontBoardServices             0x00000001a5dc3c30 0x00000001a5d66000 + 384048
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 26 FrontBoardServices             0x00000001a5dc4180 0x00000001a5d66000 + 385408
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 27 CoreFoundation                 0x00000001967589e0 0x00000001966b5000 + 670176
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 28 CoreFoundation                 0x00000001967588e0 0x00000001966b5000 + 669920
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 29 CoreFoundation                 0x0000000196757c50 0x00000001966b5000 + 666704
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 30 CoreFoundation                 0x0000000196751bc0 0x00000001966b5000 + 641984
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 31 CoreFoundation                 0x0000000196751360 CFRunLoopRunSpecific + 600
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 32 GraphicsServices               0x00000001add8f730 GSEventRunModal + 160
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 33 UIKitCore                      0x00000001991cc580 0x0000000198602000 + 12363136
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 34 UIKitCore                      0x00000001991d1df0 UIApplicationMain + 164
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 35 QQMusic                        0x0000000101034e50 main + 136
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 36 libdyld.dylib                  0x000000019640dcf0 0x000000019640c000 + 7408
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Exception Type: NSInternalInconsistencyException(SIGABRT)
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Exception Codes: logProtocol not nil! at 0x00000001c4a0f334
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Crashed Thread: 0
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 0 Crashed:
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f330 __pthread_kill + 4
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 6  libc++abi.dylib                0x00000001ab385fa0 0x00000001ab373000 + 77728
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 22 libdyld.dylib                  0x000000019640dcf0 0x000000019640c000 + 7408
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 1:
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118158030 0x0000000118100000 + 360496
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 2:
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 3:
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  WeAppCoreSDK                   0x0000000115f37af0 0x0000000115410000 + 11696880
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  WeAppCoreSDK                   0x0000000115f668f0 0x0000000115410000 + 11888880
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.294][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 4:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 5:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 6:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 7 Name: AVAudioSession Notify Thread
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 7:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 8:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  QQMusic                        0x0000000108167190 _ZN9Condition4waitEl + 56
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  QQMusic                        0x0000000108164d50 _ZL18__async_log_threadv + 188
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  QQMusic                        0x00000001081681f0 _ZN6Thread13start_routineEPv + 76
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 9:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 10:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea530 semaphore_wait_trap + 0
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  QQMusic                        0x000000010281dc40 -[ServerConnectivityChecker getResultConnectToHost:viaIp:resuseSession:source:timeout:] + 1272
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  QQMusic                        0x000000010281d700 -[ServerConnectivityChecker getResultConnectToHost:viaIp:resuseSession:source:] + 164
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  QQMusic                        0x000000010281d370 -[ServerConnectivityChecker isSuccConnectToHost:viaIp:source:] + 136
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 6  QQMusic                        0x0000000103a4e650 +[CGIExpressManager isIpConnectionOK:originHost:source:] + 408
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  QQMusic                        0x0000000103a4e1b0 __43-[CGIExpressManager tryToGetDNSAndServerIP]_block_invoke + 152
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 8  libdispatch.dylib              0x00000001963c9a80 0x00000001963c7000 + 10880
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 11:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 12:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 13:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 14:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 15 Name: AsynCall_Low_Priority
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 15:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 16 Name: AsynCall_CacheFileNamager
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 16:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 17 Name: AsynCall_FirstPiece
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 17:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 18 Name: com.apple.uikit.eventfetch-thread
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 18:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 19:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 20:
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f730 __semwait_signal + 4
+[E][2021-08-27 +8.0 12:54:55.295][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  vsCKey                         0x0000000119031c30 CloseWBAesKey + 335496
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  vsCKey                         0x0000000119031c20 CloseWBAesKey + 335480
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 21 Name: com.apple.CoreMotion.MotionThread
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 21:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 22 Name: com.apple.NSURLConnectionLoader
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 22:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 23:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  CoreFoundation                 0x000000019677a5e0 0x00000001966b5000 + 808416
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libdispatch.dylib              0x00000001963c9a80 0x00000001963c7000 + 10880
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 24:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 25 Name: AsynCall_calcSongLabelCall
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 25:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 26 Name: AsynCall_otherSongLabelCall
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 26:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 27:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118195870 0x0000000118100000 + 612464
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 28:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118191870 0x0000000118100000 + 596080
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 29:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001186046c0 GetIlinkXlogInterface + 104492
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  ilink                          0x0000000118604980 GetIlinkXlogInterface + 105196
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 30 Name: mars::webnet
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 30:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118184fa0 0x0000000118100000 + 544672
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x0000000118186e10 0x0000000118100000 + 552464
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 31 Name: mars::cdn
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 31:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118184fa0 0x0000000118100000 + 544672
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x0000000118187840 0x0000000118100000 + 555072
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 32:
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118184fa0 0x0000000118100000 + 544672
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x0000000118186e10 0x0000000118100000 + 552464
+[E][2021-08-27 +8.0 12:54:55.296][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 33 Name: mars::smc
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 33:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118184fa0 0x0000000118100000 + 544672
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x0000000118187840 0x0000000118100000 + 555072
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 34 Name: mars::stn
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 34:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x0000000118184fa0 0x0000000118100000 + 544672
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x0000000118186e10 0x0000000118100000 + 552464
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 35:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001186504f0 GetIlinkXlogInterface + 415324
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 36:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x0000000118643f90 GetIlinkXlogInterface + 364796
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  ilink                          0x0000000118644570 GetIlinkXlogInterface + 366300
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  ilink                          0x0000000118646590 GetIlinkXlogInterface + 374524
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 6  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 37 Name: mars::stn::lonklink
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 37:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a119b0 pivot_root + 40
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 1  ilink                          0x00000001181703c0 0x0000000118100000 + 459712
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  ilink                          0x00000001181e0750 0x0000000118100000 + 919376
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181df360 0x0000000118100000 + 914272
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  ilink                          0x00000001181964c0 0x0000000118100000 + 615616
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 38:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  QQMusic                        0x0000000105562bf0 _ZNSt3__1L8__invokeIRMN3WTF13HandlerThreadEFvvERPS2_JEvEEDTcldsdeclsr3std3__1E7forwardIT0_Efp0_Efp_spclsr3std3__1E7forwardIT1_Efp1_EEEOT_OS8_DpOS9_ + 128
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  QQMusic                        0x0000000105562b30 _ZNSt3__1L15__apply_functorIMN3WTF13HandlerThreadEFvvENS_5tupleIJPS2_EEEJLm0EENS5_IJEEEEENS_13__bind_returnIT_T0_T2_Xsr22__is_valid_bind_returnISA_SB_SC_EE5valueEE4typeERSA_RSB_NS_15__tuple_indicesIJXspT1_EEEEOSC_ + 72
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  QQMusic                        0x0000000105562ad0 _ZNSt3__16__bindIMN3WTF13HandlerThreadEFvvEJPS2_EEclIJEEENS_13__bind_returnIS4_NS_5tupleIJS5_EEENS9_IJDpOT_EEEXsr22__is_valid_bind_returnIS4_SA_SE_EE5valueEE4typeESD_ + 56
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 6  QQMusic                        0x0000000105562a70 _ZNSt3__1L8__invokeIRNS_6__bindIMN3WTF13HandlerThreadEFvvEJPS3_EEEJEEEDTclclsr3std3__1E7forwardIT_Efp_Espclsr3std3__1E7forwardIT0_Efp0_EEEOS9_DpOSA_ + 20
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  QQMusic                        0x0000000105562a20 _ZNSt3__128__invoke_void_return_wrapperIvE6__callIJRNS_6__bindIMN3WTF13HandlerThreadEFvvEJPS5_EEEEEEvDpOT_ + 16
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 8  QQMusic                        0x0000000105561860 _ZNSt3__110__function6__funcINS_6__bindIMN3WTF13HandlerThreadEFvvEJPS4_EEENS_9allocatorIS8_EEFvvEEclEv + 32
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 9  QQMusic                        0x00000001066283b0 _ZNSt3__114__thread_proxyINS_5tupleIJNS_10unique_ptrINS_15__thread_structENS_14default_deleteIS3_EEEENS_8functionIFvvEEEEEEEEPvSB_ + 56
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 10 libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 39 Name: ASI+runRequests
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 39:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 40 Name: ASI+runHighPriorityRequest
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 40:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 41 Name: ASI+runDownloadRequests
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 41:
+[E][2021-08-27 +8.0 12:54:55.297][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 42 Name: ASI+runAudioRequests
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 42:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 43:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 44:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 45:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 46:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 47:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 48:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 49:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 50 Name: JavaScriptCore bmalloc scavenger
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 50:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f0c0 __psynch_cvsignal + 40
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 51 Name: com.apple.CFSocket.private
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 51:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f620 __rmdir + 40
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 52 Name: AsynCall_DBCall
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 52:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  CoreFoundation                 0x000000019675a400 0x00000001966b5000 + 676864
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  QQMusic                        0x00000001031685f0 -[QMXLogManager writeLogFile:function:line:level:tag:format:args:] + 512
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  QQMusic                        0x0000000103168390 -[QMXLogManager writeLogFile:function:line:level:tag:format:] + 136
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  QQMusic                        0x00000001026da830 -[QQMusicDBAdapter reallyexecSQL:] + 140
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  QQMusic                        0x00000001026dabd0 -[QQMusicDBAdapter executeSQL:] + 116
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 6  QQMusic                        0x00000001026dc2a0 -[QQMusicDBAdapter beginTransaction] + 492
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  QQMusic                        0x0000000101e11860 +[SQLSelectExecHelper selectFromTable:columns:options:whereString:orderString:withInstanceCreateBlock:] + 1168
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 8  QQMusic                        0x00000001026dbbc0 -[QQMusicDBAdapter selectTable:columnInfos:Where:OrderBy:instanceCreateBlock:] + 312
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 9  QQMusic                        0x0000000102b79fc0 newQueryTable + 2556
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 10 QQMusic                        0x00000001014cb310 +[SongDBAdapter querySongWhere:] + 68
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 11 QQMusic                        0x00000001014cae60 -[SongDBAdapter querySongBySongInfoKey:] + 356
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 12 QQMusic                        0x0000000100a401d0 __75-[QMSongLabelManager queryAndSaveNeededSongInfosWithSongLabels:completion:]_block_invoke_2.495 + 164
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 13 CoreFoundation                 0x00000001967216f0 0x00000001966b5000 + 444144
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 16 QQMusic                        0x0000000103693ee0 -[AsynDBCall _bakgroundRunDbContextItem:] + 216
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 17 QQMusic                        0x0000000103694290 -[AsynDBCall _bakgroundRunning] + 288
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 18 Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 53:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 54:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 55:
+[E][2021-08-27 +8.0 12:54:55.298][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 56:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 57:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 58:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 59:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 60:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a100a0 __workq_kernreturn + 4
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 61:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c4a0f620 __rmdir + 40
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 1  QQMusic                        0x0000000108566e90 _ZN11CXPTaskBase7RunloopEv + 332
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 2  QQMusic                        0x0000000108566b90 _ZN11CXPTaskBase10ThreadProcEPv + 8
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  QQMusic                        0x0000000108565720 _ZL14xpthread_entryPv + 76
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  libsystem_pthread.dylib        0x00000001e2458bf0 _pthread_start + 308
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 62 Name: AsynCall_Lyric
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 62:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea530 semaphore_wait_trap + 0
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 3  QQMusic                        0x00000001020f3490 -[LyricManager getLyricObjectFromLocal:lyricFrom:] + 132
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 4  QQMusic                        0x00000001020f2d60 -[LyricManager getLyricFromLyricManager:cacheOnly:lyricFrom:withBlock:] + 200
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 5  QQMusic                        0x00000001020f3390 -[LyricManager getLyricFromLyricManager:forSong:cacheOnly:lyricFrom:withBlock:] + 404
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 6  QQMusic                        0x00000001020f9410 -[LyricManager getLyric:useFingerPrint:manualCause:forDownload:cacheOnly:lyricFrom:withBlock:] + 608
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  QQMusic                        0x00000001020f9970 __88-[LyricManager asynGetLyric:useFingerPrint:manualCause:forDownload:cacheOnly:withBlock:]_block_invoke + 212
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 8  QQMusic                        0x0000000103693ee0 -[AsynDBCall _bakgroundRunDbContextItem:] + 216
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 9  QQMusic                        0x0000000103694290 -[AsynDBCall _bakgroundRunning] + 288
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 10 Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 63 Name: foomMonitor
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 63:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0  libsystem_kernel.dylib         0x00000001c49ea4f0 host_self_trap + 8
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 7  Foundation                     0x0000000197bb0320 0x0000000197a37000 + 1544992
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Thread 0 crashed with ARM 64 Thread State:
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]      x0:  000000000000000000    x1: 000000000000000000    x2: 000000000000000000     x3: 000000000000000000
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]      x4:  0x000000016f739920    x5: 0x000000016f739ec0    x6: 0x000000000000006e     x7: 0x00000000001ff300
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]      x8:  0x28033573a94f7051    x9: 0x28033572bd968891   x10: 0x0000000000000002    x11: 0x0000000000000003
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]     x12: 000000000000000000    x13: 000000000000000000   x14: 0x0000000000000010    x15: 000000000000000000
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]     x16: 0x0000000000000148    x17: 0x0000000114d9f8c0   x18: 0x00000001215efe20    x19: 0x0000000000000006
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]     x20: 0x0000000000000103    x21: 0x0000000114d9f9a0   x22: 000000000000000000    x23: 0x0000000114d9f9a0
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]     x24: 0x00000001f9634000    x25: 0x0000000000000003   x26: 0x0000000000000001    x27: 0x00000001f9634000
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]     x28: 0x00000001f9634000    fp: 0x000000016f739e30    lr: 0x00000001e2459a9c
+[E][2021-08-27 +8.0 12:54:55.299][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]     sp: 0x000000016f739e10     pc: 0x00000001c4a0f334    cpsr: 0x40000000
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main]
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] Binary Images:
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x1006c4000 - 0x108fcbfff +QQMusic arm64 <7dafe3ec47183a158cd10bb2e69d85c5> /private/var/containers/Bundle/Application/40DC0945-CFF7-451A-B519-3B3E63ED93CD/QQMusic.app/QQMusic
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x1ab373000 - 0x1ab38cfff  libc++abi.dylib arm64_12_2 <f6119d353d8837d2aa8e88dfc6f2a00d> /usr/lib/libc++abi.dylib
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x1966b5000 - 0x196a74fff  CoreFoundation arm64_12_2 <4fbdf167161a324ca233d516922c67e5> /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x197a37000 - 0x197cecfff  Foundation arm64_12_2 <0d9893a458043f0dbb3f73989ea36ad3> /System/Library/Frameworks/Foundation.framework/Foundation
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x115410000 - 0x117647fff  WeAppCoreSDK arm64 <67453fc649a9342499ca1cf1c33f47c2> /private/var/containers/Bundle/Application/40DC0945-CFF7-451A-B519-3B3E63ED93CD/QQMusic.app/Frameworks/WeAppCoreSDK.framework/WeAppCoreSDK
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x118100000 - 0x118883fff  ilink arm64 <f87f45258fc63b59af830fa19e01fce0> /private/var/containers/Bundle/Application/40DC0945-CFF7-451A-B519-3B3E63ED93CD/QQMusic.app/Frameworks/ilink.framework/ilink
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x118dbc000 - 0x119207fff  vsCKey arm64 <acQMPersonalCommunityData5e87fa16ba34c58264d6b60b4b631b> /private/var/containers/Bundle/Application/40DC0945-CFF7-451A-B519-3B3E63ED93CD/QQMusic.app/Frameworks/vsCKey.framework/vsCKey
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x1963c7000 - 0x19640bfff  libdispatch.dylib arm64_12_2 <daf300624c853b92b15950602a0c9d97> /usr/lib/system/libdispatch.dylib
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x19640c000 - 0x196448fff  libdyld.dylib arm64_12_2 <e574a3659878348a8e8491e163cfc128> /usr/lib/system/libdyld.dylib
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x1c49e6000 - 0x1c4a18fff  libsystem_kernel.dylib arm64_12_2 <9dc3e02b8b833b9e8f0bc40df9d22680> /usr/lib/system/libsystem_kernel.dylib
+[E][2021-08-27 +8.0 12:54:55.300][41257, 10754431104*][][CrashReporterSender.m, QMHandlerCrashEx, 140][T:main] 0x1e2457000 - 0x1e2462fff  libsystem_pthread.dylib arm64_12_2 <3690509ee1e03f8c8935688b599c0303> /usr/lib/system/libsystem_pthread.dylib

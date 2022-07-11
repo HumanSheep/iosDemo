@@ -1,0 +1,6 @@
+framework module RyukieSwifty {
+  umbrella header "RyukieSwifty-umbrella.h"
+
+  export *
+  module * { export * }
+}

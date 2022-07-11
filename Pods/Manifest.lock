@@ -1,0 +1,53 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - matrix-wechat (1.0.1):
+    - matrix-wechat/matrixARC (= 1.0.1)
+    - matrix-wechat/matrixNonARC1 (= 1.0.1)
+    - matrix-wechat/matrixNonARC2 (= 1.0.1)
+  - matrix-wechat/matrixARC (1.0.1):
+    - matrix-wechat/matrixNonARC1
+  - matrix-wechat/matrixNonARC1 (1.0.1)
+  - matrix-wechat/matrixNonARC2 (1.0.1):
+    - matrix-wechat/matrixARC
+  - Reachability (3.2)
+  - RyukieSwifty/ScreenShield (0.1.4)
+  - SDWebImage (5.12.2):
+    - SDWebImage/Core (= 5.12.2)
+  - SDWebImage/Core (5.12.2)
+
+DEPENDENCIES:
+  - ASIHTTPRequest (~> 1.8.2)
+  - matrix-wechat
+  - RyukieSwifty/ScreenShield
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - ASIHTTPRequest
+    - matrix-wechat
+    - Reachability
+    - RyukieSwifty
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
+  matrix-wechat: db0ef2c0bfe982aa9c2c42aa409c48724bedc507
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  RyukieSwifty: 7f6cc2671c55ac9fc3fc0e66917e00b68b7120d4
+  SDWebImage: 240e5c12b592fb1268c1d03b8c90d90e8c2ffe82
+
+PODFILE CHECKSUM: fe786d694363ab74220f8651d54c706c34d417c4
+
+COCOAPODS: 1.11.2

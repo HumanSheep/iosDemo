@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-IOSDemo2-IOSDemo2UITests/Pods-IOSDemo2-IOSDemo2UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ASIHTTPRequest/ASIHTTPRequest.framework
+${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework
+${BUILT_PRODUCTS_DIR}/RyukieSwifty/RyukieSwifty.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/matrix-wechat/Matrix.framework

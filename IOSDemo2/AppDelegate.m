@@ -6,8 +6,16 @@
 //
 
 #import "AppDelegate.h"
+#import "ViewController.h"
+#import "QMCrashSnifferSDKWrapper.h"
+#import "HitTestViewController.h"
+#import "ViewController.h"
+#import "WebVC.h"
 
 @interface AppDelegate ()
+{
+    
+}
 
 @end
 
@@ -16,25 +24,26 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+//    ViewController *vc = [[ViewController alloc] init];
+//    HitTestViewController *vc = [[HitTestViewController alloc] init];
+    WebVC *vc = [[WebVC alloc] init];
+    _navigationController = [[UINavigationController alloc] initWithRootViewController:vc];
+
+    _window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    [_window setRootViewController:_navigationController];
+    [_window setBackgroundColor:[UIColor whiteColor]];
+    [_window makeKeyAndVisible];
+//    [QMCrashSnifferSDKWrapper.shared setup];
     return YES;
 }
 
 
-#pragma mark - UISceneSession lifecycle
-
-
-- (UISceneConfiguration *)application:(UIApplication *)application configurationForConnectingSceneSession:(UISceneSession *)connectingSceneSession options:(UISceneConnectionOptions *)options {
-    // Called when a new scene session is being created.
-    // Use this method to select a configuration to create the new scene with.
-    return [[UISceneConfiguration alloc] initWithName:@"Default Configuration" sessionRole:connectingSceneSession.role];
-}
-
-
-- (void)application:(UIApplication *)application didDiscardSceneSessions:(NSSet<UISceneSession *> *)sceneSessions {
-    // Called when the user discards a scene session.
-    // If any sessions were discarded while the application was not running, this will be called shortly after application:didFinishLaunchingWithOptions.
-    // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
-}
-
 
 @end
+
+int extern_var = 11;
+
+void extern_hello(void)
+{
+    printf("ddd");
+}
